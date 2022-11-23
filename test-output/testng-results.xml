@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-23T15:43:18 IST" name="Suite" finished-at="2022-11-23T15:43:18 IST" duration-ms="67">
+    <groups>
+    </groups>
+    <test started-at="2022-11-23T15:43:18 IST" name="Test" finished-at="2022-11-23T15:43:18 IST" duration-ms="67">
+      <class name="pack.scriptTest">
+        <test-method signature="mon()[pri:0, instance:pack.scriptTest@193f604a]" started-at="2022-11-23T15:43:18 IST" name="mon" finished-at="2022-11-23T15:43:18 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mon -->
+        <test-method signature="poke()[pri:0, instance:pack.scriptTest@193f604a]" started-at="2022-11-23T15:43:18 IST" name="poke" finished-at="2022-11-23T15:43:18 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- poke -->
+      </class> <!-- pack.scriptTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
